@@ -1,0 +1,1079 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEDX3aKXgZRoW2VTetdgbie6HzbnlL3q1gunPua1WKagpkNYzcChrdXWAqdQz7H0CjOND0zynXao1ogcQetnutrGlHlkSmMEwBj26ovOdRDM651wh11dgLDsKCuMxlNu4RoU9mdYamxA2embJGZhHOfJEbxiG3I0ubVaI6-XXMB8vmWkDUufIGRSGp4eIL_WEyCqjJ-vxH7D7iGreH5en3xkx-YjB0sJrm8EG1wgllXWUdG9byWY-6YMcHW-kan3JBRMW1AYsiwmG9RtDPq6wuQcUNIm4KlsJm9IxDfyfD89OL2L8pqnEUBRDz8w6HlGf9opxl9R18z2tUHPtDOdbNX27AowsSI_zPYpeaJB3QHtreTEnKkTpuYJkO7H1SexSnKn0mE1kREmf764Tv6ajYFh4A",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "702 Ross Ave, Dallas, TX 75202, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7812903,
+                    "lng": -96.8064213
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78272887989272,
+                        "lng": -96.80520492010729
+                    },
+                    "southwest": {
+                        "lat": 32.78002922010728,
+                        "lng": -96.80790457989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Y.O. Ranch Steakhouse",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 683,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113179156279456637454\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAVvZzS-slxPKNwCaCGrpJilSQyj31vcpdhootBU1hsEcxdbR4EvbF46cBxXSSUCafLVdv0EEtsgGWmaXZgoIo06PgSGVYozo-zEkPsa_4dxLWfTvkyf4_K3ttmmCe3A6rz26t1nZ7oaou0bOn3UodYJ_fioZIWuhyD2NaJIdMJARKT",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ1xQiJxaZToYRnuQRys6KY_k",
+            "plus_code": {
+                "compound_code": "Q5JV+GC Dallas, Texas",
+                "global_code": "8645Q5JV+GC"
+            },
+            "price_level": 3,
+            "rating": 4.6,
+            "reference": "ChIJ1xQiJxaZToYRnuQRys6KY_k",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3110,
+            "url": "https://maps.google.com/?cid=17970359558896477342"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1530 Main St STE 100, Dallas, TX 75201, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7806885,
+                    "lng": -96.7984647
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78203922989272,
+                        "lng": -96.79709277010728
+                    },
+                    "southwest": {
+                        "lat": 32.77933957010728,
+                        "lng": -96.79979242989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "CBD Provisions",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1356,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104111246635874032234\">ZAGAT</a>"
+                    ],
+                    "photo_reference": "Aap_uECwuRQjuaf99me6cLuVTs51e2tN1jpNOSIpJzGjCYOiIBCXJLp5Wpo_9ipdCSlTkOZ9eASZL9NoWtXWFxznY56Z7nDDmxZ9SxMDTI5AOS3ggBmTw9p_DlByseJhI30Mp6Id1khdrWL2efY_P7Ad5RKidBP8198jv72_JyG2CNYij6rq",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJZXW8uBiZToYRkNbd5Qut4z4",
+            "plus_code": {
+                "compound_code": "Q6J2+6H Dallas, Texas",
+                "global_code": "8645Q6J2+6H"
+            },
+            "price_level": 3,
+            "rating": 4.4,
+            "reference": "ChIJZXW8uBiZToYRkNbd5Qut4z4",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1145,
+            "url": "https://maps.google.com/?cid=4531655916677617296"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1611 McKinney Ave, Dallas, TX 75202, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7878013,
+                    "lng": -96.80470799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78912792989273,
+                        "lng": -96.80332232010727
+                    },
+                    "southwest": {
+                        "lat": 32.78642827010729,
+                        "lng": -96.80602197989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Meso Maya Comida y Copas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1406,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115027286096822577705\">Zed Star</a>"
+                    ],
+                    "photo_reference": "Aap_uEB3OXXHWGWYU4p9fVJ_QF8yR14OZWbjR7ob2Pg38ZN4dJRsILa4xLA4bBiNJpYMPC_GrpSr8blrBt1ddtuUYvQJmi18kl3bHqRG6vWbLJHhbHXdygbBgfpRiHWtALHFZW6iW6az2zq12xv0EqnYlyWk0eRqUdMtQPpgK8_rxKS5LRnL",
+                    "width": 1905
+                }
+            ],
+            "place_id": "ChIJMzOiejuZToYRWmNcwhwM1Dc",
+            "plus_code": {
+                "compound_code": "Q5QW+44 Dallas, Texas",
+                "global_code": "8645Q5QW+44"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJMzOiejuZToYRWmNcwhwM1Dc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3832,
+            "url": "https://maps.google.com/?cid=4022853684808147802"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4217 Oak Lawn Ave, Dallas, TX 75219, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8203061,
+                    "lng": -96.8026735
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82179042989272,
+                        "lng": -96.80134852010728
+                    },
+                    "southwest": {
+                        "lat": 32.81909077010727,
+                        "lng": -96.80404817989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Al Biernat's",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3794,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112253756682180896207\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBdYcjedktYwjB5MWzTiwVWoKlCdnlkN3oKizOECKP0cSVZ5DELe9yZezvjTP9Tk8TDoIiVA-nmVs8fEw7mbUZKY_JXronyN_r5RXDvbXzouOXx8jMVK9bfQPLY_gLEjFpGbxb54THKaTltg1b4ZfBCNQDJoCZhlL8BnJjwXhTd2A0X",
+                    "width": 5692
+                }
+            ],
+            "place_id": "ChIJTdYTTtueToYR1n1KpfzBLVo",
+            "plus_code": {
+                "compound_code": "R5CW+4W Dallas, Texas",
+                "global_code": "8645R5CW+4W"
+            },
+            "price_level": 4,
+            "rating": 4.7,
+            "reference": "ChIJTdYTTtueToYR1n1KpfzBLVo",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1684,
+            "url": "https://maps.google.com/?cid=6498063128214535638"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2301 N Akard St Suite 280, Dallas, TX 75201, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7892021,
+                    "lng": -96.8055857
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.79029952989272,
+                        "lng": -96.80445042010727
+                    },
+                    "southwest": {
+                        "lat": 32.78759987010728,
+                        "lng": -96.80715007989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "North Italia",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4333,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113371339423268343384\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAla-h86EsjSVPCTdLouJrHKYaXhgAKOHAdBrYT8PdIZj7S3-Qwadv_8NgqgmQxZCd8DEjK1WPsfivd3y4pcEw5olnD2iJx3mTZcjlka8qKTubKWI7bDfc1dHJgrWiM6XknYnVT_Bsbj51HqGOZNsDhfDWYvP58HXWMUofY2xEwyfmd",
+                    "width": 6499
+                }
+            ],
+            "place_id": "ChIJ6y942GCZToYRDl87BFcZcPQ",
+            "plus_code": {
+                "compound_code": "Q5QV+MQ Dallas, Texas",
+                "global_code": "8645Q5QV+MQ"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJ6y942GCZToYRDl87BFcZcPQ",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 670,
+            "url": "https://maps.google.com/?cid=17613606004169858830"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3314 Knox St, Dallas, TX 75205, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8240676,
+                    "lng": -96.79086799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82538527989273,
+                        "lng": -96.78953687010728
+                    },
+                    "southwest": {
+                        "lat": 32.82268562010728,
+                        "lng": -96.79223652989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Toulouse",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2585,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112639421563972311260\">Toulouse Caf\u00c3\u00a9 &amp; Bar (Dallas)</a>"
+                    ],
+                    "photo_reference": "Aap_uECYU9yuPuJKfnh32JcBt9LByHIpjHsJdXZnPgWnwzvP68gX1ffQvluEmeGsYN4gkNMFyiaecIFjJjVwuwXeY7ZaWS2j3UUXocRs8vHy-z8DjKDZiB5tZFC8Qq_slD9nzabV2Jz3d2Z6FtTgs3czms6p7vnrEHHEDl00ITCjTPM_QIJv",
+                    "width": 3878
+                }
+            ],
+            "place_id": "ChIJXw3LjCCfToYRuGQuqEHad7E",
+            "plus_code": {
+                "compound_code": "R6F5+JM Dallas, Texas",
+                "global_code": "8645R6F5+JM"
+            },
+            "price_level": 3,
+            "rating": 4.5,
+            "reference": "ChIJXw3LjCCfToYRuGQuqEHad7E",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 772,
+            "url": "https://maps.google.com/?cid=12787929642471154872"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 Crescent Ct, Dallas, TX 75201, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7949115,
+                    "lng": -96.8043022
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.79637072989272,
+                        "lng": -96.80328877010729
+                    },
+                    "southwest": {
+                        "lat": 32.79367107010727,
+                        "lng": -96.80598842989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "The Capital Grille",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117683259275279607421\">Ruben Betancourt</a>"
+                    ],
+                    "photo_reference": "Aap_uEBT_4HCJOjMG3S8NH_MJ_MTfjHsJ9L_viv7FXwB9heaJjVpKDfCWK9hqEMWFv3jNCXTjGlulmv6j4qoHPox5QC4dxNrr1bUDEuWhyQPO3hOIGEKizO7E_Vflx4lbmas_VzQXADSk35YUsVLVg_NfkzoXwirD5tx3zUeLblhQ-RWu43u",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJrxGmQDCZToYREkcZHAsDQdA",
+            "plus_code": {
+                "compound_code": "Q5VW+X7 Dallas, Texas",
+                "global_code": "8645Q5VW+X7"
+            },
+            "price_level": 4,
+            "rating": 4.6,
+            "reference": "ChIJrxGmQDCZToYREkcZHAsDQdA",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1218,
+            "url": "https://maps.google.com/?cid=15006278779626145554"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2101 Cedar Springs Rd #150, Dallas, TX 75201, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7941298,
+                    "lng": -96.8064069
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.79515957989272,
+                        "lng": -96.80444817010728
+                    },
+                    "southwest": {
+                        "lat": 32.79245992010728,
+                        "lng": -96.80714782989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Ocean Prime",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107531336463667839238\">Ocean Prime</a>"
+                    ],
+                    "photo_reference": "Aap_uED5X1dfuQbGJxO3VyBnAKy8_xFNyJHFH3-Iq86bfTMqCqdesud3vUliCiZBcXgERabgfndmS9QOv_ykGXVSGSB9C5mlFVMZLbHJG6pIXboMnRJOlqCCkBx-dBKry4M2GgQfl7Mrl_VJT2bjaoZ-Apt3VTxZIVZ_FGhGaoGykFbTpN5U",
+                    "width": 845
+                }
+            ],
+            "place_id": "ChIJs8StfjCZToYROdX0LGp2HXw",
+            "plus_code": {
+                "compound_code": "Q5VV+MC Dallas, Texas",
+                "global_code": "8645Q5VV+MC"
+            },
+            "price_level": 4,
+            "rating": 4.7,
+            "reference": "ChIJs8StfjCZToYROdX0LGp2HXw",
+            "types": [
+                "night_club",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1405,
+            "url": "https://maps.google.com/?cid=8943434633420526905"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2121 N Pearl St St 170, Dallas, TX 75201, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7910802,
+                    "lng": -96.8012322
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.79221572989273,
+                        "lng": -96.79984637010726
+                    },
+                    "southwest": {
+                        "lat": 32.78951607010728,
+                        "lng": -96.80254602989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Yardbird Table & Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113269133787153557964\">Deidra Lashmet</a>"
+                    ],
+                    "photo_reference": "Aap_uEBtChj-R024ldISM8ZcV8XDYc4Aw7gRz8hV-YRjhhYZ-OhRdt12hHFYBhuud159XO-GSeQqpaboFkXKWH5IZsPO5gqINfiYNEqCt2My4iCECpxDdPSw94bqV2tmpXIKWixH6lIQQwN3kGdUQ6zCqceZBR8mUsjOzHF4mlh1F5keeBYH",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ43YgCUSZToYR-LwJ6oTQ5Jc",
+            "plus_code": {
+                "compound_code": "Q5RX+CG Dallas, Texas",
+                "global_code": "8645Q5RX+CG"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJ43YgCUSZToYR-LwJ6oTQ5Jc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1047,
+            "url": "https://maps.google.com/?cid=10945102263697915128"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5300 E Mockingbird Ln, Dallas, TX 75206, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8359912,
+                    "lng": -96.7781674
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.83736247989273,
+                        "lng": -96.77696562010729
+                    },
+                    "southwest": {
+                        "lat": 32.83466282010728,
+                        "lng": -96.77966527989274
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Knife Dallas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2620,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100763884151657765929\">Peter Nguyen</a>"
+                    ],
+                    "photo_reference": "Aap_uEBEKNUV1jYjhCwtX-A6KueFOlKfaTmUf8wG8GPXbWXW4FfzsSAa6WzEDDqsf0-qe4NKZZk9M_BIz1OJOcQcDxQEfRbXFwWuazcFLS0ZlSgG6HMkTgGkzChKCho1Q0vz7_jqur3yuTwuojyvUF2IDYDCYmqX1a2a_GTsefAjMFB1UzrN",
+                    "width": 4656
+                }
+            ],
+            "place_id": "ChIJpzMvBhGfToYRIr6vCFuodcM",
+            "plus_code": {
+                "compound_code": "R6PC+9P Dallas, Texas",
+                "global_code": "8645R6PC+9P"
+            },
+            "price_level": 4,
+            "rating": 4.5,
+            "reference": "ChIJpzMvBhGfToYRIr6vCFuodcM",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 924,
+            "url": "https://maps.google.com/?cid=14084348518612319778"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1926 Market Center Blvd, Dallas, TX 75207, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7972052,
+                    "lng": -96.82391489999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.79852512989272,
+                        "lng": -96.82267017010726
+                    },
+                    "southwest": {
+                        "lat": 32.79582547010727,
+                        "lng": -96.82536982989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Rodeo Goat",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1350,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113925102704021660736\">Rodeo Goat</a>"
+                    ],
+                    "photo_reference": "Aap_uEDfbWZIhZRFefvILfLRVIxTnQg9eGTX9sfvCPUKv1_7IwqO7ZHQ74GrsrAGWuCPdLzAhPy-KD7cQamNOf6IwASS5RuRDTGHokO2bSReNXDun4rTYUkqLFfeOPSjrkNWuIW_gpsL7dQEKsLWse0LyDerykswm9Q_KmVsZsRNwcY-F6tJ",
+                    "width": 2001
+                }
+            ],
+            "place_id": "ChIJ3aaOA06ZToYR8NFgiHe0pT4",
+            "plus_code": {
+                "compound_code": "Q5WG+VC Dallas, Texas",
+                "global_code": "8645Q5WG+VC"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJ3aaOA06ZToYR8NFgiHe0pT4",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6050,
+            "url": "https://maps.google.com/?cid=4514212626990944752"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3656 Howell St, Dallas, TX 75204, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.804919,
+                    "lng": -96.794219
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80626097989273,
+                        "lng": -96.79310237010728
+                    },
+                    "southwest": {
+                        "lat": 32.80356132010728,
+                        "lng": -96.79580202989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "The Rustic",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100102020634607592487\">Joe Sorge</a>"
+                    ],
+                    "photo_reference": "Aap_uEAwHi9C6alkNlgtgjTujf4-HNgWcM2p3rLhyy6t5xG92I6O2Hpgd4_OirNc8QjITQlerDhqpcg_e52pxfI_mYMbRMebCkWiR8hV9H7nTNfQAQNRNwr69Qjy-IljBq93iU5f7cBkY6yv9hL6dcekg-Gs07geNH6ixKMPPPy1jAtziqWP",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJhcQOLdWeToYRURVCqH8zfys",
+            "plus_code": {
+                "compound_code": "R634+X8 Dallas, Texas",
+                "global_code": "8645R634+X8"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJhcQOLdWeToYRURVCqH8zfys",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4108,
+            "url": "https://maps.google.com/?cid=3134280489049920849"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1501 Main St, Dallas, TX 75201, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7807992,
+                    "lng": -96.7993549
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78204192989272,
+                        "lng": -96.79803457010728
+                    },
+                    "southwest": {
+                        "lat": 32.77934227010728,
+                        "lng": -96.80073422989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Chop House Burger",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100463051171962926962\">\u00e8\u2039\u00a5\u00e8\u00b0\u00b7\u00e5\u0160\u203a</a>"
+                    ],
+                    "photo_reference": "Aap_uEDAqsPHxShy9yjOa0ztX8GgHTfCDvV0WBpebVfc2Px1kHjxB8FEbvmLdaSvj537P97rA6FUifpPB6gIHiwUqRVXXupZFLSnychK5VDApknqnuPOGTkgXEwh8QnmaIbx-muq6--yMU2WJzE5Wr5s3WwTAEe-S_yITcvoPs8OjZZuisQw",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJCVWPkxiZToYR2up82wVorYw",
+            "plus_code": {
+                "compound_code": "Q6J2+87 Dallas, Texas",
+                "global_code": "8645Q6J2+87"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJCVWPkxiZToYR2up82wVorYw",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1762,
+            "url": "https://maps.google.com/?cid=10136872710647376602"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4152 Cole Ave # 103, Dallas, TX 75204, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8161232,
+                    "lng": -96.7921513
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.81751127989272,
+                        "lng": -96.79092457010728
+                    },
+                    "southwest": {
+                        "lat": 32.81481162010728,
+                        "lng": -96.79362422989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Salum Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100852186164538141039\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAOmQY6woZL7EHFeZDViwpgHWKL44v03seE0HUsmxUPfvMTvWzHqC5IWxK7WHrFl4WyxER5h1QCYEnOUOvfDRdYum2v0fDoTA7cwnhF45eIS6_vVuCp6qn7fDvEEgLEdu9vRZYCPIZWU-mOTHqrmUwO0HWRPz4aSobej1LOcnD5bQ-c",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJpdrv_9eeToYREr8Zm9DlXZ0",
+            "plus_code": {
+                "compound_code": "R685+C4 Dallas, Texas",
+                "global_code": "8645R685+C4"
+            },
+            "price_level": 3,
+            "rating": 4.8,
+            "reference": "ChIJpdrv_9eeToYREr8Zm9DlXZ0",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 239,
+            "url": "https://maps.google.com/?cid=11339472120906891026"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2100 Olive St Suite #100, Dallas, TX 75201, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7904483,
+                    "lng": -96.8014649
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.79165467989272,
+                        "lng": -96.80001882010727
+                    },
+                    "southwest": {
+                        "lat": 32.78895502010728,
+                        "lng": -96.80271847989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Perry's Steakhouse & Grille",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109754646549585315506\">Modtown Dallas</a>"
+                    ],
+                    "photo_reference": "Aap_uEAFgGKG83kNrydquBob2Xst5zhMiOBV1V3E64WGGtiWPYYG5oxPdYGqLYT23dDYuwMXi3HvfMRD-xn9Wl1QNe_Pg6k2c_DkDYhXsb2g6QpasKXJ-RuWRnsKB1mcp2dKnR_0hfX3Tug51Uy0ghMHtAXcfXmiEEwKgSwLSXzESSbrBsnJ",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJ_8vZyzqZToYR2-1YizUCvkc",
+            "plus_code": {
+                "compound_code": "Q5RX+5C Dallas, Texas",
+                "global_code": "8645Q5RX+5C"
+            },
+            "price_level": 3,
+            "rating": 4.5,
+            "reference": "ChIJ_8vZyzqZToYR2-1YizUCvkc",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2489,
+            "url": "https://maps.google.com/?cid=5169571851262291419"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2943 SMU Boulevard, Dallas, TX 75205, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8413794,
+                    "lng": -96.77839619999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.84294887989272,
+                        "lng": -96.77704587010727
+                    },
+                    "southwest": {
+                        "lat": 32.84024922010727,
+                        "lng": -96.77974552989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Caf\u00c3\u00a9 43",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109642217303612922498\">Bethany Gordon</a>"
+                    ],
+                    "photo_reference": "Aap_uECa-XgX5j1cK0NwbH8U1vZY09v1o60yIAORgF4n55OIiz8BFYBLZnaMtDLPwvJ9yoOFFLqK2leZKYSyfa5xWTuSofySDmnjyrmKphmEgT7sBlqkQB-_wZaQT4zPiy--n9w_f5jjHrcnYcXiqL1IFikyGSIxIWLufDfZpOBjoxpX-PlA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJmWPdWQ6fToYRyNjI2AnbdVk",
+            "plus_code": {
+                "compound_code": "R6RC+HJ Dallas, Texas",
+                "global_code": "8645R6RC+HJ"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJmWPdWQ6fToYRyNjI2AnbdVk",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 91,
+            "url": "https://maps.google.com/?cid=6446299276988963016"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "600 N Akard St, Dallas, TX 75201, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7850611,
+                    "lng": -96.80066769999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78635357989272,
+                        "lng": -96.79922592010728
+                    },
+                    "southwest": {
+                        "lat": 32.78365392010728,
+                        "lng": -96.80192557989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Dakota's Steakhouse",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104270514642721828112\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEArjAK_Xr4oW5KpxJPNNW0n8q6x-P8_fvlneyM0NyQsbpfHB6bKWdtoNhbQL3G_r0Z-3_yLkB6H5TU7Db-UdiBPDxa1jA7pUopqlL9yzXuR5sAPXL2BU3lFxUlYC0a-GBlGMQJdy-gA_OIgbVUA04jRmyXQU9kmqh51MKYLzMlm6bGy",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJiTH8AyOZToYRjgcpq1BhUdE",
+            "plus_code": {
+                "compound_code": "Q5PX+2P Dallas, Texas",
+                "global_code": "8645Q5PX+2P"
+            },
+            "price_level": 3,
+            "rating": 4.5,
+            "reference": "ChIJiTH8AyOZToYRjgcpq1BhUdE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1070,
+            "url": "https://maps.google.com/?cid=15082943626137372558"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2612 Commerce St, Dallas, TX 75226, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.78262,
+                    "lng": -96.785405
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78404597989272,
+                        "lng": -96.78404732010728
+                    },
+                    "southwest": {
+                        "lat": 32.78134632010728,
+                        "lng": -96.78674697989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Cane Rosso",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101453495740605122028\">Samuel Colunga</a>"
+                    ],
+                    "photo_reference": "Aap_uEBzM7PaFBY5OGZUBENf0aQb2kVjQoLGJpQGjJj-YZfqmCHWrbJR6mZkjwglAM4iGKGOxOQIJ1bGYq2MT87Osdi2StIzwXKtLrxoZfpg23-ij5MRvcxr5KMleKLJLR8oMKRpOBtXUlPlJ5rcV4eANw67s3crlBCmSCqS8MbiZXYQp6vO",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJJbq93SURTIYRDWBNzh6sWpQ",
+            "plus_code": {
+                "compound_code": "Q6M7+2R Dallas, Texas",
+                "global_code": "8645Q6M7+2R"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJJbq93SURTIYRDWBNzh6sWpQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2189,
+            "url": "https://maps.google.com/?cid=10690045913827467277"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1520 Elm St #201, Dallas, TX 75201, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7812403,
+                    "lng": -96.7985866
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78273212989272,
+                        "lng": -96.79710252010727
+                    },
+                    "southwest": {
+                        "lat": 32.78003247010727,
+                        "lng": -96.79980217989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "The Woolworth",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 667,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103522704473551016909\">The Woolworth</a>"
+                    ],
+                    "photo_reference": "Aap_uEDONwYq7UOXjFoFsV_n40f5d74ztsKMSgNawMg_kY5cFuSHjdQMoBtMXujvAqhC8KO0HpHyYqTjEWOBM7fI0qvfDSqevFIk0OwDdfdmPTG_ncbxKxhmh-df5FkaAsw5v2I4d0LfhKI5TGcXcJvTkK9FD3_z40CzTbzG4IrYqx0FKHCm",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJbU01oxiZToYR7SbEzKcmmrw",
+            "plus_code": {
+                "compound_code": "Q6J2+FH Dallas, Texas",
+                "global_code": "8645Q6J2+FH"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJbU01oxiZToYR7SbEzKcmmrw",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1414,
+            "url": "https://maps.google.com/?cid=13590217327680693997"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2550 Harry Hines Blvd, Dallas, TX 75201, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7918831,
+                    "lng": -96.8061712
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.79297662989272,
+                        "lng": -96.80479572010728
+                    },
+                    "southwest": {
+                        "lat": 32.79027697010727,
+                        "lng": -96.80749537989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Mercat Bistro",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1533,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112610510114479489227\">Mercat Bistro</a>"
+                    ],
+                    "photo_reference": "Aap_uEBU7orQMwcCDGHQ47ybZ0ywG0sg9Yfo__sgD_qT6hVjPuZ_B0KvP_jbeNRuYEEreQydaT9KCKfWZi2_6LTp5Y1UWeK5iSXHjKQ4XfCWuDrUl60NiCAFFbx9JDKIzhgsWaTK0QzNG4kKIgNEtoXKz_GS6MSUSrAcnwJln5djkb0p0pzM",
+                    "width": 2300
+                }
+            ],
+            "place_id": "ChIJAxHWYTqZToYRXXmIf6exBoM",
+            "plus_code": {
+                "compound_code": "Q5RV+QG Dallas, Texas",
+                "global_code": "8645Q5RV+QG"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJAxHWYTqZToYRXXmIf6exBoM",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 632,
+            "url": "https://maps.google.com/?cid=9441429001786128733"
+        }
+    ],
+    "status": "OK"
+}
